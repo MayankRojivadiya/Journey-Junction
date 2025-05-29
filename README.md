@@ -7,7 +7,7 @@ Journey Junction is a travel and trip planning website that helps users discover
 ## Features
 
 - Dynamic hero section with auto-changing images
-- Informative destination cards showcasing popular tourist spots
+- Informative destination cards showcasing popular tourist spots near by  you
 - Step-by-step location selection (Country → State → District)
 - Fully responsive UI using React.js and Tailwind CSS
 - Backend powered by Node.js for scalable performance
